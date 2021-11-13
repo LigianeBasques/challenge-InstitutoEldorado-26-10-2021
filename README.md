@@ -2,7 +2,7 @@
 - Nome: Franciane Lark. Data de entrega: De 26/10/2021 até 29/10/2021.
 
 ______________________________________________________________________________________________________________________________________________
-<h2> Menu: </h2>
+<h2> 🗺️Menu🗺️: </h2>
 - Category Management: Id, category, color, partNumber.
 <br>
 - Device Management: id, name.
